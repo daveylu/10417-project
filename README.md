@@ -7,4 +7,6 @@ the Allen Institute Neuropixels Project to measure mice brain neural activity af
 visual stimulus, such as an image or video.
 
 Some of the data is too large to be included inside the repository. They can be accessed [in Google Drive here](https://drive.google.com/drive/folders/1rgIwpdIgB7QQMDKXomek918gI49joWZF?usp=sharing) if you have a CMU account.
-The only files required to run the autoencoder and transformer is the `trimmed_data.csv` file and `entire_dict.pkl` file. The remaining data is the raw data which we modified and reshaped to get those two files.
+The only data files required to run the autoencoder and transformer are the `trimmed_data.csv` and `entire_dict.pkl` file, which are used by `autoencoder.ipynb` and `transformer.ipynb`.
+
+The other files are raw data files which we modified and reshaped to get `trimmed_data.csv` and `entire_dict.pkl` and the Python scripts we used to perform that.
