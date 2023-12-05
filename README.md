@@ -1,4 +1,4 @@
-# 10417 Intermediate Deep Learning Project
+# 10417/10617 Intermediate Deep Learning Project
 
 The goal of this project is to better represent time-series high-dimensional neural activity data in
 lower dimensions. Through this, we hope to learn more about how neural activity is related to how
